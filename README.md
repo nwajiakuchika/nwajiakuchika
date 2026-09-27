@@ -3,7 +3,7 @@ Hi, I'm Frank Chika (nwajiakuchika)
 Data Analyst | IBM Certified Data Fundamentals Specialist | Delta, Nigeria
 
 ### Certification
-[IBM Data Fundamentals](data-fundamentals.png)
+![IBM Data Fundamentals](data-fundamentals.png)
 
 **IBM Data Fundamentals - Specialist V2**
 - Issued by IBM SkillsBuild — Sep 2026 
